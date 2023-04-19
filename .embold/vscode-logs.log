@@ -1,0 +1,5 @@
+2023-04-19 04:38:10 info: tempDirectory:c:\Users\BARADED\.vscode\extensions\embold-vscode.embold-0.1.4\temp
+2023-04-19 04:38:10 info: Extraction complete for source: c:\Users\BARADED\.vscode\extensions\embold-vscode.embold-0.1.4\resources\embold-scanner-archive.zip, destination: c:\Users\BARADED\.vscode\extensions\embold-vscode.embold-0.1.4\temp
+2023-04-19 04:38:10 info: Congratulations, your extension "Embold" is now active!
+2023-04-19 04:38:41 info: file:///g%3A/%21%21%21%21%21%D0%9E%D0%91%D0%A3%D0%A7%D0%95%D0%9D%D0%98%D0%95/Java/Java_home/Java_home_4/Ex_4_1.java
+2023-04-19 04:38:41 error: SQLITE_ERROR: no such table: issues
